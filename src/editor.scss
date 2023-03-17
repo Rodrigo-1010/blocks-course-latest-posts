@@ -1,9 +1,7 @@
-/**
- * The following styles get applied inside the editor only.
- *
- * Replace them with your own styles or remove the file completely.
- */
-
-.wp-block-create-block-boilerplate {
-	border: 1px dotted #f03;
+ul.wp-block-blocks-course-latest-post {
+	list-style-type: none;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 1fr);
+	gap: 20px;
+	padding: 0;
 }

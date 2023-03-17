@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACC;EACA;EACA;EACA;EACA;AACD,C","sources":["webpack://boilerplate/./src/editor.scss"],"sourcesContent":["ul.wp-block-blocks-course-latest-post {\r\n\tlist-style-type: none;\r\n\tdisplay: grid;\r\n\tgrid-template-columns: repeat(auto-fit, 1fr);\r\n\tgap: 20px;\r\n\tpadding: 0;\r\n}\r\n"],"names":[],"sourceRoot":""}

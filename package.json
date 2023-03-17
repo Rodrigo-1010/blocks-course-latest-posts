@@ -28,12 +28,16 @@
 	"dependencies": {
 		"@wordpress/block-editor": "^8.0.11",
 		"@wordpress/blocks": "^11.1.4",
+		"@wordpress/components": "^23.6.0",
+		"@wordpress/data": "^8.5.0",
+		"@wordpress/date": "^4.29.0",
+		"@wordpress/element": "^5.6.0",
 		"@wordpress/i18n": "^4.2.4"
 	},
 	"devDependencies": {
 		"@wordpress/eslint-plugin": "^9.3.0",
 		"@wordpress/prettier-config": "^1.1.1",
-		"@wordpress/scripts": "^19.2.2",
+		"@wordpress/scripts": "^25.5.1",
 		"@wordpress/stylelint-config": "^19.1.0",
 		"eslint-config-prettier": "^8.3.0",
 		"husky": "^7.0.4",
